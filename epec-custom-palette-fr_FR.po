@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Colors Palette by Promo EPEC\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-31 14:17+0000\n"
+"PO-Revision-Date: 2019-07-31 14:29+0000\n"
+"Last-Translator: admin <bbourdeleau@gmail.com>\n"
+"Language-Team: Français\n"
+"Language: fr-FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#: epec-custom-palette.php:15
+msgid "Brand Color 1"
+msgstr "Couleur 1"
+
+#: epec-custom-palette.php:20
+msgid "Brand Color 2"
+msgstr "Couleur 2"
+
+#. Name of the plugin
+msgid "Custom Colors Palette by Promo EPEC"
+msgstr "Palette de couleur EPEC"
+
+#. Author of the plugin
+msgid "Fhor Bidden"
+msgstr "Hun Terdit"
+
+#. URI of the plugin
+msgid "http://cherch1peu.net/"
+msgstr "http://cherch1peu.net/"
+
+#. Author URI of the plugin
+msgid "http://votre-site.com"
+msgstr "http://votre-site.com"
+
+#. Description of the plugin
+msgid "Un plugin d'édition de palette de couleurs wordpress"
+msgstr "Un plugin d'édition de palette de couleurs wordpress"
+
+#: epec-custom-palette.php:25
+msgid "Very dark grey"
+msgstr "Gris très foncé"
+
+#: epec-custom-palette.php:30
+msgid "White"
+msgstr "Blanc ma gueule"
