@@ -18,17 +18,17 @@ function mytheme_setup_theme_supported_features() {
         ),
             array(
                 'name' => __( 'Brand Color 2', 'epec-custom-palette' ),
-                'slug' => 'light red',
+                'slug' => 'light-red',
                 'color' => '#E94B59',
             ),
             array(
                 'name' => __( 'Very dark grey', 'epec-custom-palette' ),
-                'slug' => 'u guest it is grey',
+                'slug' => 'dorian-grey',
                 'color' => '#111111',
             ),
             array(
                 'name' => __( 'White', 'epec-custom-palette' ),
-                'slug' => 'u guest it is white',
+                'slug' => 'snow-white',
                 'color' => '#ffffff',
             ),
     )

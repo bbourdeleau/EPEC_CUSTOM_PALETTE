@@ -1,3 +1,10 @@
-h1 {
-	color: #E94B59 !important;
-}
+/* background color */
+.has-white-background-color {background-color: #ffffff !important;}
+.has-purple-background-color {background-color: #E94B59 !important;}
+.has-darkGrey-background-color {background-color: #111 !important;}
+.has-lightRed-background-color {background-color: #6128A1 !important;}
+/* font color */
+.has-white-color {color: #fff!important;}
+.has-purple-color {color: #6128A1!important;}
+.has-darkGrey-color {color: #111!important;}
+.has-lightRed-color {color: #E94B59 !important;}
